@@ -1,4 +1,6 @@
-# jpegc_deblock: the neural JPEG artifact filter as a drop-in library
+# jpegc_deblock: a neural JPEG artifact filter as a drop-in library
+
+License: [Public Domain/Unlicense.org](https://unlicense.org/).
 
 Three files, no dependencies beyond the standard library and the platform's thread API, no C++
 exceptions or RTTI (it builds with both disabled), C++17:
