@@ -1,7 +1,5 @@
 # jpegc_deblock: a neural JPEG artifact filter as a drop-in library
 
-rg: This is some code I handed to Codex for integration into a Win32 image viewer I've been writing. I would just show it to Claude or Codex.
-
 License: [Public Domain/Unlicense.org](https://unlicense.org/).
 
 Three files, no dependencies beyond the standard library and the platform's thread API, no C++
